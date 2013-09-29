@@ -1,5 +1,4 @@
-﻿[![Build Status](https://travis-ci.org/okfn/recline.png)](https://travis-ci.org/okfn/recline)
-
+[![Build Status](https://travis-ci.org/okfn/recline.png)](https://travis-ci.org/okfn/recline)
 
 A simple but powerful library for building data applications in pure Javascript and HTML.
 
